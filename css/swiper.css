@@ -3,7 +3,7 @@
 }
 
 .swiper1 .slide1 {
-  background: url(/img/HeroSlide-1.jpg) center center/cover;
+  background: url(img/HeroSlide-1.jpg) center center/cover;
 
   position: relative;
   width: 100%;
@@ -11,12 +11,12 @@
 }
 
 .swiper1 .slide2 {
-  background: url(/img/HeroSlide-3.jpg) center center/cover;
+  background: url(img/HeroSlide-3.jpg) center center/cover;
   height: 70vh;
   position: relative;
 }
 .swiper1 .slide3 {
-  background: url(/img/HeroSlide-2.jpg) center center/cover;
+  background: url(img/HeroSlide-2.jpg) center center/cover;
   height: 70vh;
   position: relative;
 }
@@ -28,7 +28,7 @@
   left: 20px;
   width: 50px;
   height: 50px;
-  background: url(/img/80x80.png) 0px 0px;
+  background: url(img/80x80.png) 0px 0px;
   background-size: 100px 50px;
 }
 .swiper1 .swiper-button-next {
@@ -37,7 +37,7 @@
   right: 20px;
   width: 50px;
   height: 50px;
-  background: url(/img/80x80.png) 50px 0px;
+  background: url(img/80x80.png) 50px 0px;
   background-size: 100px 50px;
 }
 
@@ -48,7 +48,7 @@
 
 /*Swiper1 Bullet */
 .swiper1 .swiper-pagination-bullet {
-  background: url(/img/31x25.png);
+  background: url(img/31x25.png);
   width: 20px;
   height: 20px;
   background-size: 20px 20px;

@@ -92,7 +92,7 @@
   .main-title .title-container.MOBILE {
     padding: 10px;
     height: 170px;
-    background: url(/img/boxSmall.png) center center/cover;
+    background: url(img/boxSmall.png) center center/cover;
     background-size: 300px 170px;
     background-repeat: no-repeat;
   }
