@@ -71,7 +71,7 @@ nav.flex-items {
 nav .logo {
   width: 200px;
   height: 70px;
-  background: url(img/Logo.png);
+  background: url(/img/Logo.png);
   background-size: 200px 140px;
 }
 .search {
@@ -131,7 +131,7 @@ nav .search {
   margin-top: 20px;
 }
 .main-title .title-container {
-  background: url(img/Box.png) center center/cover;
+  background: url(/img/Box.png) center center/cover;
   width: 653px;
   height: 112px;
   margin: 0 auto;

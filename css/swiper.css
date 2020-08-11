@@ -3,7 +3,7 @@
 }
 
 .swiper1 .slide1 {
-  background: url(img/HeroSlide-1.jpg) center center/cover;
+  background: url(/img/HeroSlide-1.jpg) center center/cover;
 
   position: relative;
   width: 100%;
@@ -11,12 +11,12 @@
 }
 
 .swiper1 .slide2 {
-  background: url(img/HeroSlide-3.jpg) center center/cover;
+  background: url(/img/HeroSlide-3.jpg) center center/cover;
   height: 70vh;
   position: relative;
 }
 .swiper1 .slide3 {
-  background: url(img/HeroSlide-2.jpg) center center/cover;
+  background: url(/img/HeroSlide-2.jpg) center center/cover;
   height: 70vh;
   position: relative;
 }
