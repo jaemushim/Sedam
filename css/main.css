@@ -131,7 +131,7 @@ nav .search {
   margin-top: 20px;
 }
 .main-title .title-container {
-  background: url(/img/Box.png) center center/cover;
+  background: url(../img/Box.png) center center/cover;
   width: 653px;
   height: 112px;
   margin: 0 auto;
@@ -359,7 +359,7 @@ nav .search {
   left: -7%;
   width: 50px;
   height: 50px;
-  background: url(img/80x80.png) 0px 0px;
+  background: url(../img/80x80.png) 0px 0px;
   background-size: 100px 50px;
   transform: translateY(-50%);
 }
@@ -438,7 +438,7 @@ footer .logo {
   margin-top: auto;
   width: 200px;
   height: 70px;
-  background: url(img/Logo.png);
+  background: url(../img/Logo.png);
   background-size: 200px 140px;
   background-position: 0 70px;
 }

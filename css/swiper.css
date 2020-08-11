@@ -48,7 +48,7 @@
 
 /*Swiper1 Bullet */
 .swiper1 .swiper-pagination-bullet {
-  background: url(img/31x25.png);
+  background: url(../img/31x25.png);
   width: 20px;
   height: 20px;
   background-size: 20px 20px;
